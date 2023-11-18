@@ -11,11 +11,11 @@ hero:
   tagline: открытое сообщество пользователей операционной системы ALT Regular KDE
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Скачать ALT Regular KDE
+      link: /download
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Документация
+      link: /wiki
 
 features:
   - title: Feature A

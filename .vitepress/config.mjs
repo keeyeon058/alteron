@@ -4,6 +4,7 @@ import { telegram, gitflic } from './icons'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "ALTeron",
+  base: '/alteron/',
   srcDir: './docs', 
   description: "открытое сообщество пользователей операционной системы ALT Regular KDE",
   themeConfig: {
