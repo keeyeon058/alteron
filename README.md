@@ -18,3 +18,7 @@ cd alteron
 npm i
 npm run docs:dev
 ```
+
+#Я все изменение
+
+Добавляем в репозиторий!
